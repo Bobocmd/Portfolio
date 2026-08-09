@@ -1,6 +1,6 @@
 # Portfolio
 Curently working on: 
-<img width="957" height="559" alt="image" src="https://github.com/user-attachments/assets/7058758d-c028-43a2-b835-fa464a37f7de" />
+<img width="1920" height="1080" alt="iMac 21 5" src="https://github.com/user-attachments/assets/5f589bf6-138a-4683-89d4-e1fe0fe803aa" />
 
 Short portfolio with a few examples of my work
 
