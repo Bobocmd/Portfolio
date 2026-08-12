@@ -1,9 +1,10 @@
 # Portfolio
 Curently working on: 
-<img width="1920" height="1080" alt="iMac 21 5" src="https://github.com/user-attachments/assets/5f589bf6-138a-4683-89d4-e1fe0fe803aa" />
+<img width="1920" height="1080" alt="Full HD_1" src="https://github.com/user-attachments/assets/12bc0dbb-5965-470d-ac54-dcd89a3ae048" />
+
 
 Short portfolio with a few examples of my work
-
+<img width="1920" height="1080" alt="iMac 21 5" src="https://github.com/user-attachments/assets/5f589bf6-138a-4683-89d4-e1fe0fe803aa" />
 <img width="1920" height="1080" alt="iMac 21 5_" src="https://github.com/user-attachments/assets/08c18c3f-a1d0-4588-b012-93628508a638" />
 <img width="1920" height="1080" alt="iMac 21 5__1" src="https://github.com/user-attachments/assets/1d4cda1e-ec07-4a8b-aa7c-164857aa8855" />
 
