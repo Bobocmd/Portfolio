@@ -1,6 +1,8 @@
 # Portfolio
 Curently working on: 
 <img width="1920" height="1080" alt="Full HD" src="https://github.com/user-attachments/assets/06ede485-7288-4025-9e1a-b4b546d452f1" />
+<img width="1920" height="1080" alt="Full HD_1" src="https://github.com/user-attachments/assets/61de669e-6546-42c6-8cda-09a778f7a649" />
+
 
 Short portfolio with a few examples of my work
 <img width="1920" height="1080" alt="Full HD_1" src="https://github.com/user-attachments/assets/12bc0dbb-5965-470d-ac54-dcd89a3ae048" />
