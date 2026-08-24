@@ -10,12 +10,7 @@
   </a>
 </p>
 
-<!-- DISCORD CLICK-TO-ADD BUTTON -->
-<p align="center">
-  <a href="https://discord.com/users/anoyingplatypus">
-    <img src="https://img.shields.io/badge/Discord-Add%20Me%3A%20anoyingplatypus-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="42" />
-  </a>
-</p>
+
 
 <!-- PURPLE VISITOR COUNTER -->
 <p align="center">
