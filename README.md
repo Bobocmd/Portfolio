@@ -108,5 +108,6 @@ I'm constantly building out this space with new projects. If my style fits what 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00A2FF&height=4" width="100%" />
   <br>
-  <i>Thanks for checking out my work. Feel free to message me on Discord if you have a project in mind.</i>
+  <i>Thanks for checking out my work. Feel free to message me on Discord if you have a project in mind.Proof to the random guy in my dc dms
+  </i>
 </p>
