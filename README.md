@@ -41,7 +41,7 @@
 ## About Me
 Hey, I'm Bobo. 
 
-I focus on designing interfaces for Roblox games I have over 2 years of experience. UI work is kinda fun and soon im expanding to making Tumbnails and maybe some other desing work :3
+I focus on designing interfaces for Roblox games. UI work is kinda fun and soon im expanding to making Tumbnails and maybe some other desing work :3
 I'm constantly building out this space with new projects. If my style fits what you're building, feel free to reach out.
 
 ---
