@@ -67,6 +67,8 @@ I'm constantly building out this space with new projects. If my style fits what 
 ## Active Work
 
 <p align="center">
+  <img width="779" height="399" alt="image" src="https://github.com/user-attachments/assets/751e4d90-189a-4047-bc14-7301fbe022de" />
+
 <img width="680" height="157" alt="image" src="https://github.com/user-attachments/assets/f3375e75-54a3-44bf-99a8-32b7ad458051" />
 </p>  
 <p align="center">
