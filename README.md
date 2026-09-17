@@ -65,8 +65,10 @@ I'm constantly building out this space with new projects. If my style fits what 
 ---
 
 ## Active Work
-<img width="680" height="157" alt="image" src="https://github.com/user-attachments/assets/f3375e75-54a3-44bf-99a8-32b7ad458051" />
 
+<p align="center">
+<img width="680" height="157" alt="image" src="https://github.com/user-attachments/assets/f3375e75-54a3-44bf-99a8-32b7ad458051" />
+</p>  
 <p align="center">
   <img width="800" alt="Active Project Showcase 1" src="https://github.com/user-attachments/assets/06ede485-7288-4025-9e1a-b4b546d452f1" />
 </p>
